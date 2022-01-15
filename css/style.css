@@ -57,7 +57,9 @@ body {
   margin: 0;
   color: #fff;
   font-size: 32px;
-  font-size: calc( 20px + (32 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (32 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   font-weight: bold;
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
@@ -288,7 +290,9 @@ body {
 .hero__img_title_text {
   font-family: "Titillium Web", sans-serif;
   font-size: 18px;
-  font-size: calc( 14px + (18 - 14) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 14px + (18 - 14) *
+ ((100vw - 320px) / (1326 - 320)));
   opacity: 0.5;
 }
 
@@ -306,7 +310,9 @@ body {
 
 .hero__img_title_info {
   font-size: 50px;
-  font-size: calc( 24px + (50 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (50 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
   font-weight: bold;
 }
 
@@ -362,7 +368,9 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   font-size: 140px;
-  font-size: calc( 50px + (140 - 50) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 50px + (140 - 50) *
+ ((100vw - 320px) / (1326 - 320)));
   letter-spacing: 10px;
   color: #fff;
 }
@@ -440,7 +448,9 @@ body {
           transform: rotate(180deg);
   color: #fff;
   font-size: 18px;
-  font-size: calc( 15px + (18 - 15) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 15px + (18 - 15) *
+ ((100vw - 320px) / (1326 - 320)));
   line-height: 100%;
   -webkit-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
@@ -466,7 +476,9 @@ body {
 .hero__vertical_numbers_list-active {
   position: relative;
   font-size: 27px;
-  font-size: calc( 20px + (27 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (27 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fa4717;
   margin-top: 60px;
 }
@@ -525,7 +537,9 @@ body {
 
 .hero__title {
   font-size: 49px;
-  font-size: calc( 20px + (49 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (49 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fff;
   mix-blend-mode: difference;
   position: relative;
@@ -553,7 +567,9 @@ body {
 
 .hero__subtitle {
   font-size: 40px;
-  font-size: calc( 18px + (40 - 18) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 18px + (40 - 18) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
   margin: 0 0 3rem 0.5rem;
 }
@@ -586,7 +602,9 @@ body {
   left: -50px;
   padding: 12px 40px 12px 20px;
   font-size: 18px;
-  font-size: calc( 12px + (18 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (18 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 .hero__btn:hover {
@@ -646,7 +664,9 @@ body {
 .content_section_header_title {
   position: relative;
   font-size: 32px;
-  font-size: calc( 20px + (32 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (32 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   margin: 0;
 }
 
@@ -673,7 +693,9 @@ body {
 
 .content_section_header_subtitle {
   font-size: 150px;
-  font-size: calc( 24px + (150 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (150 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
   z-index: -1;
   position: absolute;
   color: #f3f3f3;
@@ -714,7 +736,9 @@ body {
   -webkit-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
   font-size: 30px;
-  font-size: calc( 18px + (30 - 18) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 18px + (30 - 18) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -740,7 +764,9 @@ body {
   -webkit-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
   font-size: 30px;
-  font-size: calc( 18px + (30 - 18) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 18px + (30 - 18) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -833,7 +859,9 @@ body {
 
 .content_section .product__grid_list_card_info {
   font-size: 18px;
-  font-size: calc( 15px + (18 - 15) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 15px + (18 - 15) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
   color: #888888;
   margin: 0.5rem 0;
@@ -855,7 +883,9 @@ body {
   font-family: "Titillium", sans-serif;
   color: #000;
   font-size: 24px;
-  font-size: calc( 18px + (24 - 18) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 18px + (24 - 18) *
+ ((100vw - 320px) / (1326 - 320)));
   margin: 0;
 }
 
@@ -886,7 +916,9 @@ body {
 .content_section .product__grid_list_item_inner_title, .content_section .product__grid_list_item_inner_link {
   font-family: "Titillium", sans-serif;
   font-size: 20px;
-  font-size: calc( 16px + (20 - 16) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 16px + (20 - 16) *
+ ((100vw - 320px) / (1326 - 320)));
   margin: 0;
 }
 
@@ -904,7 +936,9 @@ body {
 
 .content_section .product__grid_list_item_inner_header {
   font-size: 45px;
-  font-size: calc( 24px + (45 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (45 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
   margin: 0;
   text-transform: uppercase;
 }
@@ -933,7 +967,9 @@ body {
   position: relative;
   color: #fff;
   font-size: 24px;
-  font-size: calc( 18px + (24 - 18) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 18px + (24 - 18) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
 }
 
@@ -977,7 +1013,9 @@ body {
   color: #fff;
   font-style: italic;
   font-size: 55px;
-  font-size: calc( 18px + (55 - 18) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 18px + (55 - 18) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
 }
 
@@ -1008,7 +1046,9 @@ body {
 
 .content_section .product__grid_list_item .percent {
   font-size: 50px;
-  font-size: calc( 24px + (50 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (50 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1027,7 +1067,9 @@ body {
   position: relative;
   font-family: "Titillium", sans-serif;
   font-size: 122px;
-  font-size: calc( 40px + (122 - 40) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 40px + (122 - 40) *
+ ((100vw - 320px) / (1326 - 320)));
   font-weight: bold;
   font-style: italic;
   color: #fff;
@@ -1053,7 +1095,9 @@ body {
   font-style: italic;
   font-family: "Titillium", sans-serif;
   font-size: 35px;
-  font-size: calc( 20px + (35 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (35 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fff;
   font-weight: normal;
 }
@@ -1078,7 +1122,9 @@ body {
   font-style: italic;
   font-family: "Titillium", sans-serif;
   font-size: 35px;
-  font-size: calc( 20px + (35 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (35 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fff;
   font-weight: normal;
 }
@@ -1100,7 +1146,9 @@ body {
   text-decoration: underline;
   font-family: "Titillium", sans-serif;
   font-size: 18px;
-  font-size: calc( 15px + (18 - 15) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 15px + (18 - 15) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1219,7 +1267,9 @@ body {
   color: #fff;
   opacity: 0.2;
   font-size: 51px;
-  font-size: calc( 24px + (51 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (51 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1256,7 +1306,9 @@ body {
 
 .banner__info_title sup {
   font-size: 24px;
-  font-size: calc( 14px + (24 - 14) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 14px + (24 - 14) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1273,7 +1325,9 @@ body {
 
 .banner__info_title span:first-child {
   font-size: 51px;
-  font-size: calc( 24px + (51 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (51 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1294,7 +1348,9 @@ body {
   bottom: 8px;
   right: -12px;
   font-size: 20px;
-  font-size: calc( 16px + (20 - 16) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 16px + (20 - 16) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1314,7 +1370,9 @@ body {
   color: #fff;
   font-family: "Titillium", sans-serif;
   font-size: 20px;
-  font-size: calc( 14px + (20 - 14) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 14px + (20 - 14) *
+ ((100vw - 320px) / (1326 - 320)));
   opacity: 0.2;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -1366,7 +1424,9 @@ body {
 .banner__action_text {
   font-family: "Titillium", sans-serif;
   font-size: 35px;
-  font-size: calc( 20px + (35 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (35 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1383,7 +1443,9 @@ body {
 
 .banner__action_title {
   font-size: 51px;
-  font-size: calc( 24px + (51 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (51 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
   font-weight: bold;
 }
 
@@ -1407,7 +1469,9 @@ body {
   border: 0;
   padding: 12px 40px 12px 20px;
   font-size: 18px;
-  font-size: calc( 12px + (18 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (18 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
@@ -1476,15 +1540,15 @@ body {
 }
 
 .catogries__grid_card .sports {
-  background-image: url("../images/sports&outdoors.png");
+  background-image: url("../images/sports.png");
 }
 
 .catogries__grid_card .fashion {
-  background-image: url("../images/fashion&clothing.png");
+  background-image: url("../images/fashion.png");
 }
 
 .catogries__grid_card .food {
-  background-image: url("../images/food&grocery.png");
+  background-image: url("../images/food.png");
 }
 
 .catogries__grid_card .electronic {
@@ -1498,7 +1562,9 @@ body {
 .catogries__grid_card_title {
   color: #fff;
   font-size: 22px;
-  font-size: calc( 16px + (22 - 16) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 16px + (22 - 16) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
   margin: 0;
   font-weight: normal;
@@ -1627,7 +1693,9 @@ body {
   color: #888888;
   margin: 0.5rem 0;
   font-size: 15px;
-  font-size: calc( 12px + (15 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (15 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1645,7 +1713,9 @@ body {
 .deals__grid_list_item_price {
   text-align: center;
   font-size: 21px;
-  font-size: calc( 16px + (21 - 16) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 16px + (21 - 16) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1737,7 +1807,9 @@ body {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   font-size: 75px;
-  font-size: calc( 28px + (75 - 28) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 28px + (75 - 28) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fff;
   opacity: 0.5;
 }
@@ -1768,7 +1840,9 @@ body {
   text-align: center;
   font-family: "Titillium", sans-serif;
   font-size: 14px;
-  font-size: calc( 12px + (14 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (14 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   margin-top: 4px;
 }
 
@@ -1818,7 +1892,9 @@ body {
 
 .best__deal .laptop_section_info_title {
   font-size: 27px;
-  font-size: calc( 16px + (27 - 16) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 16px + (27 - 16) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
 }
 
@@ -1836,7 +1912,9 @@ body {
 
 .best__deal .laptop_section_info_text {
   font-size: 14px;
-  font-size: calc( 12px + (14 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (14 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
   margin-top: 0.5rem;
 }
@@ -1865,7 +1943,9 @@ body {
 
 .best__deal .headphone_section_info_title {
   font-size: 40px;
-  font-size: calc( 22px + (40 - 22) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 22px + (40 - 22) *
+ ((100vw - 320px) / (1326 - 320)));
   margin: 0;
 }
 
@@ -1897,7 +1977,9 @@ body {
   position: relative;
   font-family: "Titillium", sans-serif;
   font-size: 75px;
-  font-size: calc( 50px + (75 - 50) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 50px + (75 - 50) *
+ ((100vw - 320px) / (1326 - 320)));
   font-weight: bold;
   font-style: italic;
   color: #000;
@@ -1921,7 +2003,9 @@ body {
 
 .best__deal .headphone_section_discount sup {
   font-size: 45px;
-  font-size: calc( 22px + (45 - 22) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 22px + (45 - 22) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -1943,7 +2027,9 @@ body {
   left: 0;
   font-family: "Titillium", sans-serif;
   font-size: 16px;
-  font-size: calc( 12px + (16 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (16 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #000;
   font-weight: normal;
 }
@@ -1967,7 +2053,9 @@ body {
   right: 0;
   font-family: "Titillium", sans-serif;
   font-size: 16px;
-  font-size: calc( 12px + (16 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (16 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #000;
   font-weight: normal;
 }
@@ -2058,7 +2146,9 @@ body {
 
 .special_flex_grid_list_inner_text {
   font-size: 18px;
-  font-size: calc( 15px + (18 - 15) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 15px + (18 - 15) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
   text-align: center;
   margin: 0;
@@ -2078,7 +2168,9 @@ body {
 
 .special_flex_grid_list_inner_price {
   font-size: 24px;
-  font-size: calc( 18px + (24 - 18) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 18px + (24 - 18) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
   text-align: center;
   color: #fa4717;
@@ -2108,7 +2200,9 @@ body {
   width: 90%;
   text-align: center;
   font-size: 18px;
-  font-size: calc( 15px + (18 - 15) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 15px + (18 - 15) *
+ ((100vw - 320px) / (1326 - 320)));
   font-family: "Titillium", sans-serif;
   color: #fff;
   cursor: pointer;
@@ -2152,7 +2246,9 @@ body {
 
 .special_flex_newsletter_header_title {
   font-size: 20px;
-  font-size: calc( 16px + (20 - 16) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 16px + (20 - 16) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fff;
   font-family: "Titillium", sans-serif;
 }
@@ -2171,7 +2267,9 @@ body {
 
 .special_flex_newsletter_header_info {
   font-size: 60px;
-  font-size: calc( 24px + (60 - 24) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 24px + (60 - 24) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fff;
 }
 
@@ -2189,7 +2287,9 @@ body {
 
 .special_flex_newsletter_header_text {
   font-size: 14px;
-  font-size: calc( 12px + (14 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (14 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #fff;
   font-family: "Titillium", sans-serif;
 }
@@ -2223,7 +2323,9 @@ body {
 .special_flex_newsletter_footer_btn-secondary {
   border: 0;
   font-size: 18px;
-  font-size: calc( 15px + (18 - 15) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 15px + (18 - 15) *
+ ((100vw - 320px) / (1326 - 320)));
   padding: 0.5rem;
   background-color: #fff;
   color: #000;
@@ -2248,7 +2350,9 @@ body {
 .special_flex_newsletter_footer_btn-primary {
   border: 0;
   font-size: 18px;
-  font-size: calc( 15px + (18 - 15) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 15px + (18 - 15) *
+ ((100vw - 320px) / (1326 - 320)));
   padding: 0.5rem;
   background-color: #fa4717;
   color: #fff;
@@ -2287,7 +2391,9 @@ body {
 
 .blog__title span:first-child {
   font-size: 127px;
-  font-size: calc( 40px + (127 - 40) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 40px + (127 - 40) *
+ ((100vw - 320px) / (1326 - 320)));
   text-transform: uppercase;
 }
 
@@ -2305,7 +2411,9 @@ body {
 
 .blog__title span + span {
   font-size: 74px;
-  font-size: calc( 22px + (74 - 22) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 22px + (74 - 22) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 @media screen and (max-width: 320px) {
@@ -2432,7 +2540,9 @@ body {
   border: 0;
   padding: 12px 30px 12px 10px;
   font-size: 12px;
-  font-size: calc( 12px + (12 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (12 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
 }
 
 .blog__content_grid_list_card_content_btn:hover {
@@ -2514,7 +2624,9 @@ body {
 
 .footer__left_logo {
   font-size: 32px;
-  font-size: calc( 20px + (32 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (32 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   margin: 0;
   font-weight: bold;
   text-transform: uppercase;
@@ -2536,7 +2648,9 @@ body {
 .footer__left_desc {
   font-family: "Titillium", sans-serif;
   font-size: 14px;
-  font-size: calc( 12px + (14 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (14 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   color: #888888;
   margin: 2.25rem 0 0;
   line-height: 20px;
@@ -2583,7 +2697,9 @@ body {
 
 .footer__sitemap_header {
   font-size: 30px;
-  font-size: calc( 20px + (30 - 20) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 20px + (30 - 20) *
+ ((100vw - 320px) / (1326 - 320)));
   margin: 0 0 1.5rem;
 }
 
@@ -2620,7 +2736,9 @@ body {
 .footer__sitemap_grid_list span {
   font-family: "Titillium", sans-serif;
   font-size: 15px;
-  font-size: calc( 12px + (15 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (15 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   -webkit-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
 }
@@ -2655,7 +2773,9 @@ body {
 
 .footer__bottom {
   font-size: 14px;
-  font-size: calc( 12px + (14 - 12) * ((100vw - 320px) / (1326 - 320)));
+  font-size: calc(
+ 12px + (14 - 12) *
+ ((100vw - 320px) / (1326 - 320)));
   text-align: center;
   padding: 0.75rem 0;
   border-top: 1px solid #f3f3f3;
